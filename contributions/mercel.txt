@@ -1,0 +1,7 @@
+Name: Mercel Vubangsi
+phone: +1 6414514295
+email: mvubangsi@miu.edu
+github: vmercel
+
+COURSE: CS425 Software Engineering
+year: 2025
